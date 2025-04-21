@@ -1,7 +1,4 @@
 # Web-Scraping-Multiple-Pages-with-Python-and-Selenium-Jobsite-
-Projet : Web Scraping Multi-Pages avec Python et Selenium (Site d'Offres d'Emploi)
-
-**### **Projet : Web Scraping Multi-Pages avec Python et Selenium (Site d'Offres d'Emploi)**  
 
 Ce projet consiste à automatiser l'extraction de données depuis un site d'offres d'emploi (comme Indeed, LinkedIn, ou Glassdoor) en utilisant **Python et Selenium** pour naviguer à travers plusieurs pages et collecter des informations structurées. L'objectif est de récupérer des données telles que les **titres des postes**, les **noms des entreprises**, les **localisations**, les **salaires**, les **descriptions de poste** et les **liens des annonces**, puis de les stocker dans un format exploitable (CSV, JSON ou base de données) pour analyse ou recommandation automatisée.  
 
